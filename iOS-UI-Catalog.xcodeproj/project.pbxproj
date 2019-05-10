@@ -16,6 +16,8 @@
 		C97A2DC6228493A7009AA3F4 /* TransitionBackgroundImageUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97A2DC5228493A7009AA3F4 /* TransitionBackgroundImageUI.swift */; };
 		C97A2DC922849557009AA3F4 /* SnowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97A2DC822849557009AA3F4 /* SnowView.swift */; };
 		C97A2DCB22849570009AA3F4 /* FlightData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97A2DCA22849570009AA3F4 /* FlightData.swift */; };
+		C9BB27DA228588690084A7CC /* LayeranimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9BB27D9228588690084A7CC /* LayeranimationViewController.swift */; };
+		C9BB27DC2285887A0084A7CC /* Layeranimation.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9BB27DB2285887A0084A7CC /* Layeranimation.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		C97A2DC5228493A7009AA3F4 /* TransitionBackgroundImageUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBackgroundImageUI.swift; sourceTree = "<group>"; };
 		C97A2DC822849557009AA3F4 /* SnowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowView.swift; sourceTree = "<group>"; };
 		C97A2DCA22849570009AA3F4 /* FlightData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightData.swift; sourceTree = "<group>"; };
+		C9BB27D9228588690084A7CC /* LayeranimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayeranimationViewController.swift; sourceTree = "<group>"; };
+		C9BB27DB2285887A0084A7CC /* Layeranimation.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Layeranimation.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				C97A2DAF22845A75009AA3F4 /* AppDelegate.swift */,
+				C9BB27D82285884C0084A7CC /* LayerAnimation */,
 				C97A2DC222849372009AA3F4 /* TransitionBackgroundImageUI */,
 				C97A2DC122849318009AA3F4 /* LoginUI */,
 				C97A2DB622845A78009AA3F4 /* Assets.xcassets */,
@@ -98,6 +103,15 @@
 				C97A2DCA22849570009AA3F4 /* FlightData.swift */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		C9BB27D82285884C0084A7CC /* LayerAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				C9BB27D9228588690084A7CC /* LayeranimationViewController.swift */,
+				C9BB27DB2285887A0084A7CC /* Layeranimation.storyboard */,
+			);
+			path = LayerAnimation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -160,6 +174,7 @@
 			files = (
 				C97A2DBA22845A78009AA3F4 /* LaunchScreen.storyboard in Resources */,
 				C97A2DC422849393009AA3F4 /* TransitionBackgroundImageUI.storyboard in Resources */,
+				C9BB27DC2285887A0084A7CC /* Layeranimation.storyboard in Resources */,
 				C97A2DB722845A78009AA3F4 /* Assets.xcassets in Resources */,
 				C97A2DB522845A75009AA3F4 /* LoginUI.storyboard in Resources */,
 			);
@@ -173,6 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C97A2DB222845A75009AA3F4 /* LoginUI.swift in Sources */,
+				C9BB27DA228588690084A7CC /* LayeranimationViewController.swift in Sources */,
 				C97A2DCB22849570009AA3F4 /* FlightData.swift in Sources */,
 				C97A2DC6228493A7009AA3F4 /* TransitionBackgroundImageUI.swift in Sources */,
 				C97A2DB022845A75009AA3F4 /* AppDelegate.swift in Sources */,
