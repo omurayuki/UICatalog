@@ -16,8 +16,32 @@
 		C97A2DC6228493A7009AA3F4 /* TransitionBackgroundImageUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97A2DC5228493A7009AA3F4 /* TransitionBackgroundImageUI.swift */; };
 		C97A2DC922849557009AA3F4 /* SnowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97A2DC822849557009AA3F4 /* SnowView.swift */; };
 		C97A2DCB22849570009AA3F4 /* FlightData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97A2DCA22849570009AA3F4 /* FlightData.swift */; };
-		C9BB27DA228588690084A7CC /* LayeranimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9BB27D9228588690084A7CC /* LayeranimationViewController.swift */; };
+		C9BB27DA228588690084A7CC /* Layeranimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9BB27D9228588690084A7CC /* Layeranimation.swift */; };
 		C9BB27DC2285887A0084A7CC /* Layeranimation.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9BB27DB2285887A0084A7CC /* Layeranimation.storyboard */; };
+		C9F2C64B22869AA700E3DEB9 /* CASpringAnimation.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F2C64A22869AA700E3DEB9 /* CASpringAnimation.storyboard */; };
+		C9F2C64D22869AB800E3DEB9 /* CASpringAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C64C22869AB800E3DEB9 /* CASpringAnimation.swift */; };
+		C9F2C6502286BC5E00E3DEB9 /* CAKeyFrameAnimation.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F2C64F2286BC5E00E3DEB9 /* CAKeyFrameAnimation.storyboard */; };
+		C9F2C6522286BC7400E3DEB9 /* CAKeyFrameAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C6512286BC7400E3DEB9 /* CAKeyFrameAnimation.swift */; };
+		C9F2C6552286C71100E3DEB9 /* UIBezierPath.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F2C6542286C71100E3DEB9 /* UIBezierPath.storyboard */; };
+		C9F2C6572286C71A00E3DEB9 /* UIBezierPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C6562286C71A00E3DEB9 /* UIBezierPath.swift */; };
+		C9F2C6592286C7BD00E3DEB9 /* AvatarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C6582286C7BD00E3DEB9 /* AvatarView.swift */; };
+		C9F2C65C2286DE3100E3DEB9 /* CAGradientLayer.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F2C65B2286DE3100E3DEB9 /* CAGradientLayer.storyboard */; };
+		C9F2C65E2286DE3A00E3DEB9 /* CAGradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C65D2286DE3A00E3DEB9 /* CAGradientLayer.swift */; };
+		C9F2C6602286DE4800E3DEB9 /* AnimatedMaskLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C65F2286DE4800E3DEB9 /* AnimatedMaskLabel.swift */; };
+		C9F2C6632286FB9C00E3DEB9 /* UIBezierPath2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F2C6622286FB9C00E3DEB9 /* UIBezierPath2.storyboard */; };
+		C9F2C6652286FBAB00E3DEB9 /* UIBezierPath2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C6642286FBAB00E3DEB9 /* UIBezierPath2.swift */; };
+		C9F2C6672286FBC700E3DEB9 /* RefreshView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C6662286FBC700E3DEB9 /* RefreshView.swift */; };
+		C9F2C66A228743CF00E3DEB9 /* UIViewControllerTransition.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F2C669228743CF00E3DEB9 /* UIViewControllerTransition.storyboard */; };
+		C9F2C66C228743DD00E3DEB9 /* PopAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C66B228743DD00E3DEB9 /* PopAnimator.swift */; };
+		C9F2C66E228743EC00E3DEB9 /* HerbModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C66D228743EC00E3DEB9 /* HerbModel.swift */; };
+		C9F2C670228743F700E3DEB9 /* HerbDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C66F228743F700E3DEB9 /* HerbDetailsViewController.swift */; };
+		C9F2C6722287440500E3DEB9 /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C6712287440500E3DEB9 /* ViewController8.swift */; };
+		C9F2C6772287F8B000E3DEB9 /* CenterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C6762287F8B000E3DEB9 /* CenterViewController.swift */; };
+		C9F2C6792287F8BA00E3DEB9 /* MenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C6782287F8BA00E3DEB9 /* MenuButton.swift */; };
+		C9F2C67B2287F8C500E3DEB9 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C67A2287F8C500E3DEB9 /* MenuItem.swift */; };
+		C9F2C67D2287F8D900E3DEB9 /* SideMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C67C2287F8D900E3DEB9 /* SideMenuViewController.swift */; };
+		C9F2C67F2287F90500E3DEB9 /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2C67E2287F90500E3DEB9 /* ContainerViewController.swift */; };
+		C9F2C6812287FAC100E3DEB9 /* SideMenu.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F2C6802287FAC100E3DEB9 /* SideMenu.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +56,32 @@
 		C97A2DC5228493A7009AA3F4 /* TransitionBackgroundImageUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBackgroundImageUI.swift; sourceTree = "<group>"; };
 		C97A2DC822849557009AA3F4 /* SnowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowView.swift; sourceTree = "<group>"; };
 		C97A2DCA22849570009AA3F4 /* FlightData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightData.swift; sourceTree = "<group>"; };
-		C9BB27D9228588690084A7CC /* LayeranimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayeranimationViewController.swift; sourceTree = "<group>"; };
+		C9BB27D9228588690084A7CC /* Layeranimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Layeranimation.swift; sourceTree = "<group>"; };
 		C9BB27DB2285887A0084A7CC /* Layeranimation.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Layeranimation.storyboard; sourceTree = "<group>"; };
+		C9F2C64A22869AA700E3DEB9 /* CASpringAnimation.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CASpringAnimation.storyboard; sourceTree = "<group>"; };
+		C9F2C64C22869AB800E3DEB9 /* CASpringAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CASpringAnimation.swift; sourceTree = "<group>"; };
+		C9F2C64F2286BC5E00E3DEB9 /* CAKeyFrameAnimation.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CAKeyFrameAnimation.storyboard; sourceTree = "<group>"; };
+		C9F2C6512286BC7400E3DEB9 /* CAKeyFrameAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CAKeyFrameAnimation.swift; sourceTree = "<group>"; };
+		C9F2C6542286C71100E3DEB9 /* UIBezierPath.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = UIBezierPath.storyboard; sourceTree = "<group>"; };
+		C9F2C6562286C71A00E3DEB9 /* UIBezierPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBezierPath.swift; sourceTree = "<group>"; };
+		C9F2C6582286C7BD00E3DEB9 /* AvatarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarView.swift; sourceTree = "<group>"; };
+		C9F2C65B2286DE3100E3DEB9 /* CAGradientLayer.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CAGradientLayer.storyboard; sourceTree = "<group>"; };
+		C9F2C65D2286DE3A00E3DEB9 /* CAGradientLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CAGradientLayer.swift; sourceTree = "<group>"; };
+		C9F2C65F2286DE4800E3DEB9 /* AnimatedMaskLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedMaskLabel.swift; sourceTree = "<group>"; };
+		C9F2C6622286FB9C00E3DEB9 /* UIBezierPath2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = UIBezierPath2.storyboard; sourceTree = "<group>"; };
+		C9F2C6642286FBAB00E3DEB9 /* UIBezierPath2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBezierPath2.swift; sourceTree = "<group>"; };
+		C9F2C6662286FBC700E3DEB9 /* RefreshView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshView.swift; sourceTree = "<group>"; };
+		C9F2C669228743CF00E3DEB9 /* UIViewControllerTransition.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = UIViewControllerTransition.storyboard; sourceTree = "<group>"; };
+		C9F2C66B228743DD00E3DEB9 /* PopAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopAnimator.swift; sourceTree = "<group>"; };
+		C9F2C66D228743EC00E3DEB9 /* HerbModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HerbModel.swift; sourceTree = "<group>"; };
+		C9F2C66F228743F700E3DEB9 /* HerbDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HerbDetailsViewController.swift; sourceTree = "<group>"; };
+		C9F2C6712287440500E3DEB9 /* ViewController8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
+		C9F2C6762287F8B000E3DEB9 /* CenterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterViewController.swift; sourceTree = "<group>"; };
+		C9F2C6782287F8BA00E3DEB9 /* MenuButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuButton.swift; sourceTree = "<group>"; };
+		C9F2C67A2287F8C500E3DEB9 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		C9F2C67C2287F8D900E3DEB9 /* SideMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuViewController.swift; sourceTree = "<group>"; };
+		C9F2C67E2287F90500E3DEB9 /* ContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerViewController.swift; sourceTree = "<group>"; };
+		C9F2C6802287FAC100E3DEB9 /* SideMenu.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SideMenu.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,9 +115,16 @@
 			isa = PBXGroup;
 			children = (
 				C97A2DAF22845A75009AA3F4 /* AppDelegate.swift */,
-				C9BB27D82285884C0084A7CC /* LayerAnimation */,
-				C97A2DC222849372009AA3F4 /* TransitionBackgroundImageUI */,
-				C97A2DC122849318009AA3F4 /* LoginUI */,
+				C9F2C6732287F87B00E3DEB9 /* SideMenuUI */,
+				C9F2C668228743AF00E3DEB9 /* UIViewControllerTransition */,
+				C9F2C6612286FB8D00E3DEB9 /* UIBezierPath */,
+				C9F2C65A2286DE2600E3DEB9 /* CAGradientLayer */,
+				C9F2C6532286C6FC00E3DEB9 /* UIBezierPath */,
+				C9F2C64E2286BC4B00E3DEB9 /* CAKeyFrameAnimation */,
+				C9C811632285EAC900A3FBBC /* CASpringAnimation */,
+				C9BB27D82285884C0084A7CC /* CABasicAnimation */,
+				C97A2DC222849372009AA3F4 /* UIView.animateKeyframes */,
+				C97A2DC122849318009AA3F4 /* UIView.animation */,
 				C97A2DB622845A78009AA3F4 /* Assets.xcassets */,
 				C97A2DB822845A78009AA3F4 /* LaunchScreen.storyboard */,
 				C97A2DBB22845A78009AA3F4 /* Info.plist */,
@@ -77,23 +132,23 @@
 			path = "iOS-UI-Catalog";
 			sourceTree = "<group>";
 		};
-		C97A2DC122849318009AA3F4 /* LoginUI */ = {
+		C97A2DC122849318009AA3F4 /* UIView.animation */ = {
 			isa = PBXGroup;
 			children = (
 				C97A2DB322845A75009AA3F4 /* LoginUI.storyboard */,
 				C97A2DB122845A75009AA3F4 /* LoginUI.swift */,
 			);
-			path = LoginUI;
+			path = UIView.animation;
 			sourceTree = "<group>";
 		};
-		C97A2DC222849372009AA3F4 /* TransitionBackgroundImageUI */ = {
+		C97A2DC222849372009AA3F4 /* UIView.animateKeyframes */ = {
 			isa = PBXGroup;
 			children = (
 				C97A2DC722849549009AA3F4 /* Classes */,
 				C97A2DC322849393009AA3F4 /* TransitionBackgroundImageUI.storyboard */,
 				C97A2DC5228493A7009AA3F4 /* TransitionBackgroundImageUI.swift */,
 			);
-			path = TransitionBackgroundImageUI;
+			path = UIView.animateKeyframes;
 			sourceTree = "<group>";
 		};
 		C97A2DC722849549009AA3F4 /* Classes */ = {
@@ -105,13 +160,103 @@
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		C9BB27D82285884C0084A7CC /* LayerAnimation */ = {
+		C9BB27D82285884C0084A7CC /* CABasicAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				C9BB27D9228588690084A7CC /* LayeranimationViewController.swift */,
+				C9BB27D9228588690084A7CC /* Layeranimation.swift */,
 				C9BB27DB2285887A0084A7CC /* Layeranimation.storyboard */,
 			);
-			path = LayerAnimation;
+			path = CABasicAnimation;
+			sourceTree = "<group>";
+		};
+		C9C811632285EAC900A3FBBC /* CASpringAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C64A22869AA700E3DEB9 /* CASpringAnimation.storyboard */,
+				C9F2C64C22869AB800E3DEB9 /* CASpringAnimation.swift */,
+			);
+			path = CASpringAnimation;
+			sourceTree = "<group>";
+		};
+		C9F2C64E2286BC4B00E3DEB9 /* CAKeyFrameAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C64F2286BC5E00E3DEB9 /* CAKeyFrameAnimation.storyboard */,
+				C9F2C6512286BC7400E3DEB9 /* CAKeyFrameAnimation.swift */,
+			);
+			path = CAKeyFrameAnimation;
+			sourceTree = "<group>";
+		};
+		C9F2C6532286C6FC00E3DEB9 /* UIBezierPath */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C6542286C71100E3DEB9 /* UIBezierPath.storyboard */,
+				C9F2C6562286C71A00E3DEB9 /* UIBezierPath.swift */,
+				C9F2C6582286C7BD00E3DEB9 /* AvatarView.swift */,
+			);
+			path = UIBezierPath;
+			sourceTree = "<group>";
+		};
+		C9F2C65A2286DE2600E3DEB9 /* CAGradientLayer */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C65B2286DE3100E3DEB9 /* CAGradientLayer.storyboard */,
+				C9F2C65D2286DE3A00E3DEB9 /* CAGradientLayer.swift */,
+				C9F2C65F2286DE4800E3DEB9 /* AnimatedMaskLabel.swift */,
+			);
+			path = CAGradientLayer;
+			sourceTree = "<group>";
+		};
+		C9F2C6612286FB8D00E3DEB9 /* UIBezierPath */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C6622286FB9C00E3DEB9 /* UIBezierPath2.storyboard */,
+				C9F2C6642286FBAB00E3DEB9 /* UIBezierPath2.swift */,
+				C9F2C6662286FBC700E3DEB9 /* RefreshView.swift */,
+			);
+			name = UIBezierPath;
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		C9F2C668228743AF00E3DEB9 /* UIViewControllerTransition */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C669228743CF00E3DEB9 /* UIViewControllerTransition.storyboard */,
+				C9F2C66B228743DD00E3DEB9 /* PopAnimator.swift */,
+				C9F2C66D228743EC00E3DEB9 /* HerbModel.swift */,
+				C9F2C66F228743F700E3DEB9 /* HerbDetailsViewController.swift */,
+				C9F2C6712287440500E3DEB9 /* ViewController8.swift */,
+			);
+			path = UIViewControllerTransition;
+			sourceTree = "<group>";
+		};
+		C9F2C6732287F87B00E3DEB9 /* SideMenuUI */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C6752287F8A000E3DEB9 /* SideMenu */,
+				C9F2C6742287F89000E3DEB9 /* CenterViewController */,
+				C9F2C67E2287F90500E3DEB9 /* ContainerViewController.swift */,
+				C9F2C6802287FAC100E3DEB9 /* SideMenu.storyboard */,
+			);
+			path = SideMenuUI;
+			sourceTree = "<group>";
+		};
+		C9F2C6742287F89000E3DEB9 /* CenterViewController */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C6762287F8B000E3DEB9 /* CenterViewController.swift */,
+				C9F2C6782287F8BA00E3DEB9 /* MenuButton.swift */,
+			);
+			path = CenterViewController;
+			sourceTree = "<group>";
+		};
+		C9F2C6752287F8A000E3DEB9 /* SideMenu */ = {
+			isa = PBXGroup;
+			children = (
+				C9F2C67A2287F8C500E3DEB9 /* MenuItem.swift */,
+				C9F2C67C2287F8D900E3DEB9 /* SideMenuViewController.swift */,
+			);
+			path = SideMenu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -172,8 +317,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9F2C6812287FAC100E3DEB9 /* SideMenu.storyboard in Resources */,
+				C9F2C65C2286DE3100E3DEB9 /* CAGradientLayer.storyboard in Resources */,
 				C97A2DBA22845A78009AA3F4 /* LaunchScreen.storyboard in Resources */,
+				C9F2C66A228743CF00E3DEB9 /* UIViewControllerTransition.storyboard in Resources */,
 				C97A2DC422849393009AA3F4 /* TransitionBackgroundImageUI.storyboard in Resources */,
+				C9F2C6552286C71100E3DEB9 /* UIBezierPath.storyboard in Resources */,
+				C9F2C6502286BC5E00E3DEB9 /* CAKeyFrameAnimation.storyboard in Resources */,
+				C9F2C64B22869AA700E3DEB9 /* CASpringAnimation.storyboard in Resources */,
+				C9F2C6632286FB9C00E3DEB9 /* UIBezierPath2.storyboard in Resources */,
 				C9BB27DC2285887A0084A7CC /* Layeranimation.storyboard in Resources */,
 				C97A2DB722845A78009AA3F4 /* Assets.xcassets in Resources */,
 				C97A2DB522845A75009AA3F4 /* LoginUI.storyboard in Resources */,
@@ -187,12 +339,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9F2C67B2287F8C500E3DEB9 /* MenuItem.swift in Sources */,
+				C9F2C6672286FBC700E3DEB9 /* RefreshView.swift in Sources */,
 				C97A2DB222845A75009AA3F4 /* LoginUI.swift in Sources */,
-				C9BB27DA228588690084A7CC /* LayeranimationViewController.swift in Sources */,
+				C9F2C65E2286DE3A00E3DEB9 /* CAGradientLayer.swift in Sources */,
+				C9F2C67D2287F8D900E3DEB9 /* SideMenuViewController.swift in Sources */,
+				C9BB27DA228588690084A7CC /* Layeranimation.swift in Sources */,
+				C9F2C66C228743DD00E3DEB9 /* PopAnimator.swift in Sources */,
 				C97A2DCB22849570009AA3F4 /* FlightData.swift in Sources */,
+				C9F2C6592286C7BD00E3DEB9 /* AvatarView.swift in Sources */,
+				C9F2C6602286DE4800E3DEB9 /* AnimatedMaskLabel.swift in Sources */,
+				C9F2C6652286FBAB00E3DEB9 /* UIBezierPath2.swift in Sources */,
 				C97A2DC6228493A7009AA3F4 /* TransitionBackgroundImageUI.swift in Sources */,
+				C9F2C670228743F700E3DEB9 /* HerbDetailsViewController.swift in Sources */,
+				C9F2C6522286BC7400E3DEB9 /* CAKeyFrameAnimation.swift in Sources */,
+				C9F2C67F2287F90500E3DEB9 /* ContainerViewController.swift in Sources */,
+				C9F2C6792287F8BA00E3DEB9 /* MenuButton.swift in Sources */,
+				C9F2C6572286C71A00E3DEB9 /* UIBezierPath.swift in Sources */,
+				C9F2C66E228743EC00E3DEB9 /* HerbModel.swift in Sources */,
+				C9F2C64D22869AB800E3DEB9 /* CASpringAnimation.swift in Sources */,
 				C97A2DB022845A75009AA3F4 /* AppDelegate.swift in Sources */,
+				C9F2C6772287F8B000E3DEB9 /* CenterViewController.swift in Sources */,
 				C97A2DC922849557009AA3F4 /* SnowView.swift in Sources */,
+				C9F2C6722287440500E3DEB9 /* ViewController8.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
